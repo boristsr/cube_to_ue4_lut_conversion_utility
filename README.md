@@ -5,7 +5,7 @@ A utility script to batch convert CUBE LUT files for usage in UE4. Saves time ra
 1) Install Python 3.x
 2) Run the following command
 ```bash
-pip install pillow pillow_lot
+pip install pillow pillow_lut
 ```
 3) Download/clone this project
 4) Download the neutral RGB LUT from Epic and save it into the folder beside the .py file. [Source Page](https://docs.unrealengine.com/en-US/Engine/Rendering/PostProcessEffects/UsingLUTs/index.html), [Direct  Image Link](https://docs.unrealengine.com/Images/Engine/Rendering/PostProcessEffects/UsingLUTs/RGBTable16x1.png) 
