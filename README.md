@@ -1,5 +1,5 @@
 # Convert CUBE LUT files for usage in Unreal
-A utility script to convert CUBE LUT files for usage in UE4.
+A utility script to batch convert CUBE LUT files for usage in UE4. Saves time rather than manually converting individual LUTs if you have an existing catalog or have bought a LUT pack like [IWLTBAP's Cinematic Pack](https://luts.iwltbap.com/)
 
 ## Instructions
 1) Install Python 3.x
